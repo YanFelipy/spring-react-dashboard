@@ -18,7 +18,19 @@ html, body {
     flex: 1 0 auto;
 }
 
+body {
+    background-color: rgb(150, 150, 150);
+}
 
+.text-decoration-none, .dev-em{
+    color: #FF8400;
+    font-weight:bold ;
+}
+.text-decoration-none:hover{
+    color: #e26e01;
+    font-weight:bold ;
+    
+}
 
 .footer {
     flex-shrink: 0;
