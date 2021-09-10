@@ -31,7 +31,7 @@ Colaborador: Yan Felipy. 🎓
 https://www.linkedin.com/in/YanFelipy/ 💼
   
 ### Link da aplicação online:
-https://www.linkedin.com/in/YanFelipy/ 💼
+https://dashboard-portfolio-yf.netlify.app/ 👌
 
 
 
