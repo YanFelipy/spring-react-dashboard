@@ -27,7 +27,10 @@ A aplicação contou com aplicações no <b>Heroku</b>
 Dev. Superior(Nelio Alves) 📝 <br>
 Colaborador: Yan Felipy. 🎓
 
-### Meu Linkedin
+### Meu Linkedin:
+https://www.linkedin.com/in/YanFelipy/ 💼
+  
+### Link da aplicação online:
 https://www.linkedin.com/in/YanFelipy/ 💼
 
 
